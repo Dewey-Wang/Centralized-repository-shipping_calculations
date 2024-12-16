@@ -1,5 +1,5 @@
  # Here is a new update by <Dewey-Wang>
-# Here is another update by <Dewey-Wang>
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
